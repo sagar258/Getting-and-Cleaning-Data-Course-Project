@@ -10,4 +10,4 @@ This is the course project of getting and cleaning data which includes run_analy
 7. Appropriately labels the data set with descriptive variable names.
 8. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The result is in the tidy.txt file which is a text file.
+The result is in the SecTidySet.txt file which is a text file.
